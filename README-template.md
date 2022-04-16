@@ -6,7 +6,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Link](#link)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -19,7 +19,9 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ![](./screenshot.png)
 
-### Link
+### Links
+
+- Solution URL: [https://github.com/AlexisKcc8/advice-generator-frontendmentor]
 - Live Site URL: [https://ganerator-advice-alxchim.netlify.app/]
 
 ## My process
