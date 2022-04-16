@@ -72,10 +72,12 @@ main{
     box-shadow:  0 0 40px var(--GrayishBlue),
                 0 0 80px #414b5e;
     text-align: center;
-    padding: 1rem;
+    padding: 1.5rem;
     border-radius:10px;
-
     color:var(--LightCyan)
+}
+.card__separator{
+    margin: 0
 }
 .card__num-advice{
     color:var(--NeonGreen);
@@ -95,7 +97,7 @@ main{
     transition: .5s ease-in-out;
 }
 .card__separator{
-    margin-bottom: 1.8rem;
+    margin: 1rem 1.5rem;
 }
 .container-card-dice{
     position: absolute;
